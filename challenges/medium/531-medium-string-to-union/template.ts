@@ -1,6 +1,4 @@
-/**
- * 关键点：
-*/
+
 
 
 type StringToUnion<T extends string> =

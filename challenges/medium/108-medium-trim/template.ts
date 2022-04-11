@@ -1,6 +1,4 @@
-/**
- * 关键点：
-*/
+
 
 type Trim<S extends string> = S extends `${' ' | '\n' | '\t'}${infer L}`
   ? Trim<L>

@@ -1,6 +1,4 @@
-/**
- * 关键点：
-*/
+
 
 type Replace<S extends string, From extends string, To extends string> =
   From extends ''

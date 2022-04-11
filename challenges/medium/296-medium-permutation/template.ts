@@ -1,6 +1,4 @@
-/**
- * 关键点：
-*/
+
 
 type Permutation<T, C = T> =
   [T] extends [never]

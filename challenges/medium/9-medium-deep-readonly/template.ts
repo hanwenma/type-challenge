@@ -1,6 +1,4 @@
-/**
- * 关键点：
-*/
+
 
 // 方式一
 // type DeepReadonly<T> = {

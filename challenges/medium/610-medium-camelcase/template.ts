@@ -1,6 +1,4 @@
-/**
- * 关键点：
-*/
+
 
 type CamelCase<S extends string> =
     S extends `${infer F}-${infer R}`

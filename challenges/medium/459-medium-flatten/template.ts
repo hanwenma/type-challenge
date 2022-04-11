@@ -1,6 +1,4 @@
-/**
- * 关键点：
-*/
+
 
 type Flatten<T extends unknown[]> =
   T extends [infer F, ...infer R]

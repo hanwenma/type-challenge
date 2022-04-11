@@ -1,6 +1,4 @@
-/**
- * 关键点：
-*/
+
 
 type KebabCase<S extends string> =
     S extends `${infer S1}${infer S2}`

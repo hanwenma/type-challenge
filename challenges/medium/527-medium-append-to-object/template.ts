@@ -1,6 +1,4 @@
-/**
- * 关键点：
-*/
+
 
 
 type AppendToObject<T extends object, U extends string, V extends unknown> = {
